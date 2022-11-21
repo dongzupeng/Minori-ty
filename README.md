@@ -18,7 +18,7 @@
 + 掘金：[头文字D_Jay](https://juejin.cn/user/2374587965252189) 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongzupeng&show_icons=true&theme=tokyonight)
 
 
 
