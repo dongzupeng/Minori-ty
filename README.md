@@ -5,6 +5,8 @@
     </div>
 </a>
 
+![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+
 + 技术栈：
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongzupeng)](https://github.com/dongzupeng/github-readme-stats)
