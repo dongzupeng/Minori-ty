@@ -26,8 +26,7 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongzupeng&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongzupeng)](https://github.com/dongzupeng/github-readme-stats)
+![Top Langs](https://github.com/dongzupeng/github-readme-stats)
 
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -39,7 +38,7 @@
 + 掘金：[头文字D_Jay](https://juejin.cn/user/2374587965252189) 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongzupeng&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=dongzupeng&show_icons=true&theme=tokyonight)
 
 
 
