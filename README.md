@@ -25,7 +25,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
-![](https://github-readme-stats.vercel.app/api?username=dongzupeng&show_icons=true&theme=dark&count_private=true)
+(https://github-readme-stats.vercel.app/api?username=dongzupeng&show_icons=true&theme=dark&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongzupeng)](https://github.com/dongzupeng/github-readme-stats)
 
