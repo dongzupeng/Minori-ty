@@ -33,7 +33,7 @@
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=Vue.js)
-![](https://img.shields.io/badge/-React-write?style=flat-square&logo=React.js)
+![](https://img.shields.io/badge/-React-#fff?style=flat-square&logo=reactjs)
 
 
 + 博客：[头文字D的博客](https://dongzupeng.github.io/blog/) 
